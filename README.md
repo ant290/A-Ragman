@@ -2,7 +2,7 @@
 
 Write a console application to filter a data set and display rows on screen that meet a criteria.
 
-The criteria is that thetwo words in each row of the data set are anagrams of each other.
+The criteria is that the two words in each row of the data set are anagrams of each other.
 
 this must include unit testing
 this must be extensible
